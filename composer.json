@@ -1,5 +1,5 @@
 {
-    "name": "nicolaswurtz/chordpro-php",
+    "name": "bcash/chordpro-php",
     "description": "Parse, transpose and format (html,json,plaintext) ChordPro format for songs lyrics with chords.",
     "type": "library",
     "require-dev": {
